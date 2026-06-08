@@ -1,0 +1,10 @@
+
+total orders: 12
+total revenue: 1644000
+average order: 45666.67
+highest order: 94000
+lowest order: 13000
+revenue by city: {'Hyderabad': 200000, 'Bangalore': 95000, 'Mumbai': 69000, 'Chennai': 70000, 'Delhi': 92000, 'Pune': 22000}
+revenue by category: {'Electronics': 474000, 'Furniture': 74000}
+top selling product: ['Laptop', 'Mobile']
+top revenue city: ['Hyderabad']

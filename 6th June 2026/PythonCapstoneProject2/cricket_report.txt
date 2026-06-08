@@ -1,0 +1,20 @@
+ 
+    total players: 12
+    Total Runs: 6606
+    Average Runs: 550.50
+    Highest Scorer: Virat Kohli 741
+    Lowest Scorer: MS Dhoni 280 
+    team-wise runs:
+      team  runs
+0  RCB  1411
+1   RR  1175
+2   MI   990
+3  KKR   930
+4  CSK   890
+5   GT   620
+6  LSG   590
+    top5:
+    [{'player_id': '101', 'player_name': 'Virat Kohli', 'team': 'RCB', 'matches': '14', 'runs': '741', 'fours': '62', 'sixes': '38'}, {'player_id': '108', 'player_name': 'Faf du Plessis', 'team': 'RCB', 'matches': '14', 'runs': '670', 'fours': '60', 'sixes': '32'}, {'player_id': '110', 'player_name': 'Yashasvi Jaiswal', 'team': 'RR', 'matches': '14', 'runs': '625', 'fours': '57', 'sixes': '30'}, {'player_id': '103', 'player_name': 'Shubman Gill', 'team': 'GT', 'matches': '14', 'runs': '620', 'fours': '55', 'sixes': '28'}, {'player_id': '105', 'player_name': 'Ruturaj Gaikwad', 'team': 'CSK', 'matches': '14', 'runs': '610', 'fours': '58', 'sixes': '24'}]
+    most fours: {'player_id': '101', 'player_name': 'Virat Kohli', 'team': 'RCB', 'matches': '14', 'runs': '741', 'fours': '62', 'sixes': '38'}
+    most sixes: {'player_id': '101', 'player_name': 'Virat Kohli', 'team': 'RCB', 'matches': '14', 'runs': '741', 'fours': '62', 'sixes': '38'}
+

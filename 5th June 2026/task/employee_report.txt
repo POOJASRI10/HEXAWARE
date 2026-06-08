@@ -1,0 +1,5 @@
+total employees: 10
+highest salary: 95000
+lowest salary: 65000
+average salary: 79000.0
+total salary: 790000
